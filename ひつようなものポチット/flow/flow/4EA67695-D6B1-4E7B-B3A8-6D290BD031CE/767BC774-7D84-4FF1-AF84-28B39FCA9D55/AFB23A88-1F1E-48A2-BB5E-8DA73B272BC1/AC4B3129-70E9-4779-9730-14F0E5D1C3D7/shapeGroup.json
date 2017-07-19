@@ -1,0 +1,104 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "AC4B3129-70E9-4779-9730-14F0E5D1C3D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41.4417998794579,
+    "width": 146.3761467889908,
+    "x": 30.72477064220175,
+    "y": 29.62333773522096
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "590A4DB5-687F-4683-818F-A3DBA8ECA24E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6311123-9196-4CE5-833C-D903EFB5C471"
+    },
+    {
+      "class": "shapePath",
+      "id": "FEFF4538-2882-4EBC-8331-4B398EA4D1A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F4F223E-D670-4C0E-BD5C-C0FCFE95396E"
+    },
+    {
+      "class": "shapePath",
+      "id": "BB1B69D6-B59D-41F5-88BC-19899C121B06"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDC79E46-DF96-4559-92BF-81E0176F903D"
+    },
+    {
+      "class": "shapePath",
+      "id": "87482E46-12EC-4396-8B24-38FA170F5653"
+    },
+    {
+      "class": "shapePath",
+      "id": "8AD93259-E021-4E23-89EA-CCE7641B6770"
+    },
+    {
+      "class": "shapePath",
+      "id": "54E5934A-128E-4DE3-80D6-0CE4A07A5AB6"
+    }
+  ],
+  "name": "ポチット_copy_4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2941176470588235,
+          "green": 0.2117647058823529,
+          "red": 0.3294117647058823
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

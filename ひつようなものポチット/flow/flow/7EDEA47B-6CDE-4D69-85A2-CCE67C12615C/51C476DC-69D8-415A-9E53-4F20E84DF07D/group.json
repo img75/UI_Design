@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "51C476DC-69D8-415A-9E53-4F20E84DF07D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 25,
+    "x": 330,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C48AB01B-F83C-40FF-9442-83AE70215286"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66493A31-C47D-44C6-9A6C-70455FF91773"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDF6A779-1F5A-4F70-B286-2312C0F78DDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE370CCD-7203-46C9-944A-808A21642108"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D809F074-649E-4A2C-BB48-69BFF0839508"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89C0EA9B-BB15-4C04-989B-5BFC2B68309A"
+    }
+  ],
+  "name": "icon_cart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
