@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "11BD5C91-323D-42EB-B0EF-BA4EF1D032F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 343,
+    "width": 508,
+    "x": 13,
+    "y": 71.08442330558859
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3068FDFC-4AFB-4350-A5ED-6E230972CDF3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4ED4264C-9316-4A65-BC2E-B95375891786"
+    },
+    {
+      "class": "text",
+      "id": "8218A1AB-A0F9-45A2-AD60-646576D78944"
+    },
+    {
+      "class": "group",
+      "id": "D2E6A142-CA22-4C88-91BC-92FD2896E215"
+    },
+    {
+      "class": "group",
+      "id": "C31C96E0-162C-4ABF-A049-8D826694A038"
+    },
+    {
+      "class": "group",
+      "id": "C37B1E11-6765-42DC-9F45-B4608FCC6C35"
+    },
+    {
+      "class": "group",
+      "id": "A93D8B10-AFE1-4311-AE21-13426ED0462C"
+    },
+    {
+      "class": "group",
+      "id": "A5055EF1-2D4E-4F32-B951-49E496FF3EE2"
+    },
+    {
+      "class": "group",
+      "id": "AF530BE6-487D-4C53-A180-C6532D529BEF"
+    },
+    {
+      "class": "group",
+      "id": "52A33916-4E49-4601-8F8E-F02EFA03A065"
+    },
+    {
+      "class": "group",
+      "id": "62DF54D1-4C4A-498B-858D-81CBF2CF5240"
+    },
+    {
+      "class": "group",
+      "id": "16AFE1F2-C0AF-4632-91CF-E868EDCD9AA5"
+    },
+    {
+      "class": "group",
+      "id": "B87FEB90-37EC-4847-97E3-286EB289BCEF"
+    },
+    {
+      "class": "group",
+      "id": "A89A6ABD-4B80-447D-9E55-7B153B4F37A0"
+    },
+    {
+      "class": "group",
+      "id": "44E14A30-738C-4A5D-9A6E-B755B54758F1"
+    },
+    {
+      "class": "text",
+      "id": "AD71FDD6-8EB1-4299-AB1E-B58DE5E69CB5"
+    }
+  ],
+  "name": "menu1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

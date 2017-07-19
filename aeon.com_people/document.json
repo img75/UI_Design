@@ -1,0 +1,83 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2,
+        "green": 0.2,
+        "red": 0.2
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4,
+        "green": 0.4,
+        "red": 0.4
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6,
+        "green": 0.6,
+        "red": 0.6
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "FBD674B1-F629-4759-A996-085A7A77DD54",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.sketchfocus": {
+      "items": {
+        "notes": [
+        ],
+        "tasks": {
+          "completed": [
+          ],
+          "todo": [
+            {
+              "author": "almc-jinho",
+              "completed": 0,
+              "createdAt": "2016-07-28T06:43:41.319Z",
+              "desc": "",
+              "files": [
+              ],
+              "id": 0,
+              "important": 0,
+              "layers": [
+                "7FB99E04-F69A-4065-B4E4-73CA13C0EE94"
+              ],
+              "title": "logo",
+              "type": "task"
+            }
+          ]
+        }
+      }
+    },
+    "com.zeroheight.plugin": {
+      "itemsVersions": "{}"
+    }
+  }
+}
